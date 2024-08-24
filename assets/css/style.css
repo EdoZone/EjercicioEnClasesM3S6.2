@@ -58,7 +58,8 @@ span {
 i {
     margin: 0 5px;
 }
-main{
+
+main {
     width: 100vw;
 }
 
@@ -95,7 +96,10 @@ button {
     background-color: #a491d2;
     color: white;
     border: none;
+    
+
 }
+
 
 p {
     font-size: large;
