@@ -67,12 +67,13 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 200px;
+    /* padding: 200px; */
     background-color: #E8EBE4;
+    min-height: 100vh;
 }
 
 .img__main {
-    width: 40%;
+    width: 20%;
     border-radius: 0;
 }
 
